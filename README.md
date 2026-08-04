@@ -48,6 +48,8 @@ Current Status
 
  * Linux x64
    * passed go1 (ArchLinux)
+ * Linux ARM64
+   * static GNU/Linux libraries included and verified on Raspberry Pi 5
  * Windows x86
    * passed go1 (win7, mingw-gcc 4.5.2, curl 7.22.0)
  * Mac OS

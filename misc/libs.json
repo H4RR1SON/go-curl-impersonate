@@ -11,6 +11,16 @@
   },
   {
     "match_criteria": {
+      "system": "Linux",
+      "machine": "aarch64",
+      "libc": "gnu"
+    },
+    "dest_leaf_dir": "linux_arm64_gnu",
+    "archive_slug": "aarch64-linux-gnu",
+    "extraction_method": "static_linux_bundle"
+  },
+  {
+    "match_criteria": {
       "system": "Windows",
       "machine": "AMD64"
     },
